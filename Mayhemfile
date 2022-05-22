@@ -1,0 +1,5 @@
+project: rnshah9/loksh
+target: loksh
+
+cmds:
+  - cmd: /repo/build/ksh @@
