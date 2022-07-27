@@ -1,0 +1,5 @@
+project: loksh
+target: ksh
+
+cmds:
+  - cmd: /install/bin/ksh @@
