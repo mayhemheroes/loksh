@@ -2,4 +2,4 @@ project: loksh
 target: ksh
 
 cmds:
-  - cmd: /repo/build/ksh @@
+  - cmd: /install/bin/ksh @@
